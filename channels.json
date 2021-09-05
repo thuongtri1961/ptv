@@ -6,12 +6,12 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "http://223.110.243.158/PLTV/3/224/3221227400/1.m3u8",
+				"url": "https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8",
 				"carrier": "CMCC"
 			},
 			{
 				"name": "源1",
-				"url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+				"url": "https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8",
 				"carrier": "CMCC"
 			}
 		]
@@ -24,12 +24,12 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "http://223.110.243.172/PLTV/3/224/3221227207/index.m3u8",
+				"url": "https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8",
 				"carrier": "CMCC"
 			},
 			{
 				"name": "源1",
-				"url": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8",
+				"url": "https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8",
 				"carrier": "CMCC"
 			}
 		]
@@ -41,13 +41,13 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "http://223.110.243.158/PLTV/3/224/3221227415/1.m3u8",
+				"url": "https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8",
+				"url": "https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8",
 				"carrier": "CMCC"
 
 			}
@@ -60,13 +60,13 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			}
@@ -79,19 +79,19 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "http://223.110.243.158/PLTV/3/224/3221227468/1.m3u8",
+				"url": "https://rlink.vn/beartv-vtvcab1",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225800/index.m3u8",
+				"url": "https://rlink.vn/beartv-vtvcab1",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8",
+				"url": "https://rlink.vn/beartv-vtvcab1",
 				"carrier": "CMCC"
 
 			}
@@ -104,13 +104,13 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "http://223.110.243.173/PLTV/3/224/3221227209/index.m3u8",
+				"url": "https://rlink.vn/beartv-sctv18",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8",
+				"url": "https://rlink.vn/beartv-sctv18",
 				"carrier": "CMCC"
 
 			}
