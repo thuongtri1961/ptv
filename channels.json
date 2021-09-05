@@ -79,19 +79,19 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "https://rlink.vn/beartv-vtvcab1",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "https://rlink.vn/beartv-vtvcab1",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "https://rlink.vn/beartv-vtvcab1",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			}
@@ -104,13 +104,13 @@
 		"channelStreams": [
 			{
 				"name": "源1",
-				"url": "https://rlink.vn/beartv-sctv18",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			},
 			{
 				"name": "源1",
-				"url": "https://rlink.vn/beartv-sctv18",
+				"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
 				"carrier": "CMCC"
 
 			}
